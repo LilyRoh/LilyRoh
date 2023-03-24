@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Lily Roh</h2>
 
-- 🔭 I’m currently studying to be a full stack developer!
-- 🌱 I’m currently learning React and MongoDB
+<h4 align="center">🔭 I’m currently studying to be a full stack developer!</h4>
+<h4 align="center">🌱 I’m currently learning React and MongoDB</h4>
 
 
 
